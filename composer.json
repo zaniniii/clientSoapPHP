@@ -1,0 +1,12 @@
+{
+    "name": "zanini/soap",
+    "require": {
+        "codecasts/nusoap-php7": "^0.9.7"
+    },
+    "authors": [
+        {
+            "name": "Luiz Carlos Zanini",
+            "email": "zanini@za9.com.br"
+        }
+    ]
+}
